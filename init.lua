@@ -305,6 +305,7 @@ require('lazy').setup({
       }, { mode = 'v' })
     end,
   },
+  { 'catppuccin/nvim', name = 'catppuccin', priority = 1000 },
 
   -- NOTE: Plugins can specify dependencies.
   --
